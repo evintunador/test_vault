@@ -1,1 +1,0 @@
-#periodicNote/weekly
