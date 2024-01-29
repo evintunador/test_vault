@@ -1,0 +1,1 @@
+#periodicNote/monthly

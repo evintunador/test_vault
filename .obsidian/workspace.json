@@ -11,24 +11,6 @@
             "id": "7b20c9307075fbcf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "24eda86135ea31d4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a840302ae0722e6d",
-            "type": "leaf",
-            "state": {
               "type": "graph",
               "state": {}
             }
@@ -168,16 +150,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a840302ae0722e6d",
+  "active": "7b20c9307075fbcf",
   "lastOpenFiles": [
+    "mom.md",
+    "high.md",
+    "2024.md",
+    "jan.md",
+    "this week.md",
+    "today.md",
+    "personal/calendar",
+    "personal/untitled folder",
+    "personal/people",
+    "personal/highNotes",
+    "personal/periodicNotes/yearly",
+    "personal/periodicNotes/untitled folder",
+    "personal/periodicNotes/monthly",
+    "personal/periodicNotes/weekly",
+    "personal/periodicNotes/daily",
+    "personal/periodicNotes",
     "Welcome.md",
+    "test.md",
+    "test2.md",
+    "test3.md",
     "create a link.md",
-    "canvi/test.canvas",
-    "canvi",
-    "untitled folder",
-    "templates",
-    "attachments",
-    "personal",
-    "move_files.py"
+    "canvi/test.canvas"
   ]
 }
