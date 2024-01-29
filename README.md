@@ -1,0 +1,1 @@
+I'm tryna figure out how to automatically upload my obsidian vault to github while keeping some files private
